@@ -1,3 +1,2 @@
-git rm hello.py
-git commit -m "Deleted hello.py"
-git push origin main
+name = input("Enter your name: ")
+print("Hello, " + name + "! Welcome to Python programming.")

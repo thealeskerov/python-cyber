@@ -13,49 +13,62 @@ I use this space to strengthen my programming skills and track my learning progr
 - ✅ Functions  
 - ✅ String operations  
 - ✅ User input  
-- ✅ Basic math & logic  
-- ✅ Small games & utilities
+- ✅ Logic and math  
+- ✅ Small games and utilities
 
 ---
 
-## 📁 Project List
+## 📂 File Overview
 
+### 🔹 `basics/`
 | File | Description |
 |------|-------------|
 | `hello_world.py` | First Python program |
-| `calculator.py` | Simple calculator (+, -, *, /) |
-| `even_checker.py` | Checks if a number is even or odd |
-| `multiplication_table.py` | Generates multiplication table |
-| `word_counter.py` | Counts words in a sentence |
-| `palindrome.py` | Checks if a word is a palindrome |
-| `guess_number.py` | Number guessing game |
-| `temperature_converter.py` | Converts Celsius ↔ Fahrenheit |
+| `even_checker.py` | Check if number is even or odd |
+| `word_counter.py` | Count number of words in a sentence |
+| `multiplication_table.py` | Print multiplication table |
+
+---
+
+### 🔹 `exercises/`
+| File | Description |
+|------|-------------|
+| `calculator.py` | Simple calculator |
+| `factorial.py` | Calculate factorial of a number |
+| `palindrome.py` | Check if a word is a palindrome |
+| `temperature_converter.py` | Convert Celsius ↔ Fahrenheit |
+
+---
+
+### 🔹 `games/`
+| File | Description |
+|------|-------------|
+| `guess_number.py` | Guess the number game |
 | `mini_quiz.py` | Simple 3-question quiz |
-| `factorial.py` | Calculates factorial of a number |
 
 ---
 
 ## 🛠️ Tools Used
 
 - Python 3.x  
-- Git / GitHub  
-- W3Schools, TryHackMe (for practice)  
-- Visual Studio Code (IDE)
+- Git & GitHub  
+- Visual Studio Code  
+- W3Schools, TryHackMe (for learning and practice)
 
 ---
 
-## 📈 Progress
+## 🚀 Learning Progress
 
 ✅ Completed basic Python concepts  
-🚧 Working on small tools  
-🧠 Next: build automation scripts and cybersecurity-related projects
+🚧 Working on combining logic, loops, and functions  
+🔜 Next: automation, mini tools, cybersecurity scripting
 
 ---
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License.
 
 ---
 
-*Made with ❤️ while learning Python.*
+*Made with ❤️ while learning Python and preparing for a cybersecurity career.*
